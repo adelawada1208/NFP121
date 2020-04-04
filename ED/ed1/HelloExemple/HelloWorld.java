@@ -11,15 +11,4 @@ class HelloWorld {
     public String toString() {
         return bonjour();
     }
-
-    // bla bla
-    
-    // HA HA HA HA ...
-
-    // again bla bla 
-
-    // Update Master & myBranche
-
-    // Encore un changement a partir de Local repo"
-
 }
