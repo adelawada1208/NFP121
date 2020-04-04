@@ -11,4 +11,6 @@ class HelloWorld {
     public String toString() {
         return bonjour();
     }
+
+    // bla bla
 }
