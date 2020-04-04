@@ -1,6 +1,7 @@
 
 class HelloWorld {
 
+    // renvoie String
     public String bonjour() {
         return "Bonjour tout le monde...";
     }
